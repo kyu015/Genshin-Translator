@@ -3,6 +3,7 @@
 //  Genshin Translator
 //
 //  Created by shiki on 2022/05/03.
+//  ver 1.0
 //
 
 import SwiftUI
