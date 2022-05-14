@@ -1,13 +1,13 @@
 [
   {
-    "en": "Artifact",
+    "en": "artifact",
     "ja": "聖遺物",
     "pronunciationJa": "せいいぶつ",
     "tags": [
       "artifact"
     ],
     "id": "artifact",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-05",
     "createdAt": "1970-01-01"
   },
   {
@@ -81,8 +81,13 @@
     "tags": [
       "artifact"
     ],
+    "variants": {
+      "ja": [
+        "悠久"
+      ]
+    },
     "id": "archaic-petra",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -103,8 +108,13 @@
     "tags": [
       "artifact"
     ],
+    "variants": {
+      "ja": [
+        "氷風"
+      ]
+    },
     "id": "blizzard-strayer",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -114,8 +124,13 @@
     "tags": [
       "artifact"
     ],
+    "variants": {
+      "ja": [
+        "血染め"
+      ]
+    },
     "id": "bloodstained-chivalry",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -137,8 +152,16 @@
     "tags": [
       "artifact"
     ],
+    "variants": {
+      "ja": [
+        "火魔女"
+      ],
+      "en": [
+        "CW"
+      ]
+    },
     "id": "crimson-witch-of-flames",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -159,8 +182,13 @@
     "tags": [
       "artifact"
     ],
+    "variants": {
+      "ja": [
+        "絶縁"
+      ]
+    },
     "id": "emblem-of-severed-fate",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -170,8 +198,13 @@
     "tags": [
       "artifact"
     ],
+    "variants": {
+      "ja": [
+        "来歆"
+      ]
+    },
     "id": "echoes-of-an-offering",
-    "updatedAt": "2022-03-19",
+    "updatedAt": "2022-05-04",
     "createdAt": "2022-03-19"
   },
   {
@@ -203,8 +236,13 @@
     "tags": [
       "artifact"
     ],
+    "variants": {
+      "ja": [
+        "剣闘士"
+      ]
+    },
     "id": "gladiators-finale",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -214,8 +252,13 @@
     "tags": [
       "artifact"
     ],
+    "variants": {
+      "ja": [
+        "沈淪"
+      ]
+    },
     "id": "heart-of-depth",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -225,8 +268,13 @@
     "tags": [
       "artifact"
     ],
+    "variants": {
+      "ja": [
+        "華館"
+      ]
+    },
     "id": "husk-of-opulent-dreams",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -269,8 +317,13 @@
     "tags": [
       "artifact"
     ],
+    "variants": {
+      "ja": [
+        "愛され"
+      ]
+    },
     "id": "maiden-beloved",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -291,8 +344,13 @@
     "tags": [
       "artifact"
     ],
+    "variants": {
+      "ja": [
+        "旧貴族"
+      ]
+    },
     "id": "noblesse-oblige",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -302,8 +360,13 @@
     "tags": [
       "artifact"
     ],
+    "variants": {
+      "ja": [
+        "海染"
+      ]
+    },
     "id": "ocean-hued-clam",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -313,8 +376,13 @@
     "tags": [
       "artifact"
     ],
+    "variants": {
+      "ja": [
+        "蒼白"
+      ]
+    },
     "id": "pale-flame",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -415,8 +483,13 @@
     "tags": [
       "artifact"
     ],
+    "variants": {
+      "ja": [
+        "逆飛び"
+      ]
+    },
     "id": "retracing-bolide",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -437,8 +510,13 @@
     "tags": [
       "artifact"
     ],
+    "variants": {
+      "ja": [
+        "しめ縄"
+      ]
+    },
     "id": "shimenawas-reminiscence",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -448,8 +526,13 @@
     "tags": [
       "artifact"
     ],
+    "variants": {
+      "ja": [
+        "千岩"
+      ]
+    },
     "id": "tenacity-of-the-millelith",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -459,8 +542,13 @@
     "tags": [
       "artifact"
     ],
+    "variants": {
+      "ja": [
+        "雷怒"
+      ]
+    },
     "id": "thundering-fury",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -503,8 +591,13 @@
     "tags": [
       "artifact"
     ],
+    "variants": {
+      "ja": [
+        "辰砂"
+      ]
+    },
     "id": "vermillion-hereafter",
-    "updatedAt": "2022-03-19",
+    "updatedAt": "2022-05-04",
     "createdAt": "2022-03-19"
   },
   {
@@ -514,8 +607,16 @@
     "tags": [
       "artifact"
     ],
+    "variants": {
+      "ja": [
+        "翠緑"
+      ],
+      "en": [
+        "VV"
+      ]
+    },
     "id": "viridescent-venerer",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -525,8 +626,13 @@
     "tags": [
       "artifact"
     ],
+    "variants": {
+      "ja": [
+        "楽団"
+      ]
+    },
     "id": "wanderers-troupe",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -1037,17 +1143,17 @@
     "createdAt": "1970-01-01"
   },
   {
-    "en": "Captain of the (Knights of Favonius) Reconnaissance Company",
-    "ja": "(西風騎士団の) 遊撃小隊隊長",
+    "en": "Captain of the Reconnaissance Company",
+    "ja": "遊撃小隊隊長",
     "pronunciationJa": "ゆうげきしょうたいたいちょう",
     "tags": [
       "mondstadt",
       "title"
     ],
     "notes": "エウルアの西風騎士団における職名",
-    "id": "captain-of-the-knights-of-favonius-reconnaissance-company",
-    "updatedAt": "1970-01-01",
-    "createdAt": "1970-01-01"
+    "id": "captain-of-the-reconnaissance-company",
+    "updatedAt": "2022-05-05",
+    "createdAt": "2022-05-05"
   },
   {
     "en": "aristocrat",
@@ -1057,8 +1163,14 @@
     "tags": [
       "mondstadt"
     ],
+    "_meta": {
+      "translator": {
+        "enToJa": true,
+        "jaToEn": false
+      }
+    },
     "id": "aristocrat",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-05",
     "createdAt": "1970-01-01"
   },
   {
@@ -1081,8 +1193,14 @@
     ],
     "pronunciationJa": "ふうじん",
     "notes": "Anemo God、God of Anemo などのように表記される場合もある。",
+    "variants": {
+      "en": [
+        "Anemo God",
+        "God of Anemo"
+      ]
+    },
     "id": "anemo-archon",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -1154,14 +1272,14 @@
       "enemy-boss",
       "character-sub"
     ],
-    "notes": "単に &quot;wolf&quot; と呼ばれることもある",
-    "variants": [
-      "アンドレアス",
-      "狼",
-      "おおかみ"
-    ],
+    "notes": "日本語では単に「狼」と呼ばれることもあり、英語でも同様に &quot;wolf&quot; と呼ばれる",
+    "variants": {
+      "ja": [
+        "アンドレアス"
+      ]
+    },
     "id": "andrius",
-    "updatedAt": "2022-04-08",
+    "updatedAt": "2022-05-04",
     "createdAt": "2022-04-08"
   },
   {
@@ -1172,13 +1290,9 @@
       "enemy-boss",
       "character-sub"
     ],
-    "notes": "単に &quot;wolf&quot; と呼ばれることもある",
-    "variants": [
-      "狼",
-      "おおかみ"
-    ],
+    "notes": "日本語では単に「狼」と呼ばれることもあり、英語でも同様に &quot;wolf&quot; と呼ばれる",
     "id": "boreas",
-    "updatedAt": "2022-04-08",
+    "updatedAt": "2022-05-04",
     "createdAt": "2022-04-08"
   },
   {
@@ -1578,24 +1692,26 @@
       "liyue",
       "character-main"
     ],
-    "variants": [
-      "鐘離"
-    ],
+    "variants": {
+      "ja": [
+        "鐘離"
+      ]
+    },
     "id": "zhongli",
-    "updatedAt": "2022-04-08",
+    "updatedAt": "2022-05-04",
     "createdAt": "2022-04-08"
   },
   {
     "en": "consultant",
-    "ja": "(往生堂の) 客卿",
+    "ja": "客卿",
     "pronunciationJa": "かっけい",
     "tags": [
       "liyue",
       "title"
     ],
-    "notes": "guest と訳されている箇所もある。",
+    "notes": "鍾離の往生堂における地位。guest と訳されている箇所もある。",
     "id": "consultant",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-05",
     "createdAt": "1970-01-01"
   },
   {
@@ -1810,8 +1926,14 @@
       "title"
     ],
     "pronunciationJa": "がんしん",
+    "variants": {
+      "en": [
+        "Geo God",
+        "God of Geo"
+      ]
+    },
     "id": "geo-archon",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -1872,13 +1994,16 @@
       "character-sub",
       "enemy-boss"
     ],
-    "variants": [
-      "若陀竜王",
-      "若蛇龍王",
-      "若蛇竜王"
-    ],
+    "variants": {
+      "ja": [
+        "若陀竜王",
+        "若蛇龍王",
+        "若蛇竜王",
+        "若陀"
+      ]
+    },
     "id": "azhdaha",
-    "updatedAt": "2022-03-19",
+    "updatedAt": "2022-05-04",
     "createdAt": "2022-03-19"
   },
   {
@@ -2038,8 +2163,13 @@
       "liyue",
       "character-sub"
     ],
+    "variants": {
+      "en": [
+        "Yanxiao"
+      ]
+    },
     "id": "smiley-yanxiao",
-    "updatedAt": "2022-04-23",
+    "updatedAt": "2022-05-04",
     "createdAt": "2022-04-23"
   },
   {
@@ -2071,8 +2201,13 @@
       "liyue",
       "character-sub"
     ],
+    "variants": {
+      "en": [
+        "Hanfeng"
+      ]
+    },
     "id": "hanfeng-cold-blade",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -2082,8 +2217,13 @@
       "liyue",
       "character-sub"
     ],
+    "variants": {
+      "en": [
+        "Zhang"
+      ]
+    },
     "id": "master-zhang",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -2360,11 +2500,13 @@
       "inazuma",
       "character-main"
     ],
-    "variants": [
-      "神里綾香"
-    ],
+    "variants": {
+      "ja": [
+        "神里綾香"
+      ]
+    },
     "id": "kamisato-ayaka",
-    "updatedAt": "2022-03-19",
+    "updatedAt": "2022-05-04",
     "createdAt": "2022-03-19"
   },
   {
@@ -2412,11 +2554,13 @@
       "inazuma",
       "character-main"
     ],
-    "variants": [
-      "トウマ"
-    ],
+    "variants": {
+      "ja": [
+        "トウマ"
+      ]
+    },
     "id": "thoma",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -2619,8 +2763,11 @@
       "how-to-call"
     ],
     "notes": "一般的には「神よ、」などと呼びかける時に &quot;Almighty God, &quot; などと使う場合がある。",
+    "_meta": {
+      "translator": false
+    },
     "id": "almighty-shogun",
-    "updatedAt": "2022-04-08",
+    "updatedAt": "2022-05-05",
     "createdAt": "2022-04-08"
   },
   {
@@ -2632,8 +2779,14 @@
     ],
     "pronunciationJa": "らいじん",
     "notes": "雷電将軍のことを &quot;God&quot; と称するシーンがあることから、Electro God も間違いではないと思われる。",
+    "variants": {
+      "en": [
+        "Electro God",
+        "God of Electro"
+      ]
+    },
     "id": "electro-archon",
-    "updatedAt": "2022-04-08",
+    "updatedAt": "2022-05-04",
     "createdAt": "2022-04-08"
   },
   {
@@ -2727,13 +2880,15 @@
       "inazuma",
       "character-sub"
     ],
-    "variants": [
-      "狐齋宮",
-      "狐斉宮",
-      "狐齊宮"
-    ],
+    "variants": {
+      "ja": [
+        "狐齋宮",
+        "狐斉宮",
+        "狐齊宮"
+      ]
+    },
     "id": "kitsune-saiguu",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -2744,8 +2899,13 @@
       "inazuma",
       "character-sub"
     ],
+    "variants": {
+      "ja": [
+        "かざり"
+      ]
+    },
     "id": "kazari",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -2848,8 +3008,13 @@
       "character-sub"
     ],
     "notes": "v2.0では Orobashi と表記されていたが、v2.1で Orobaxi に変更されたようである。しかし Orobashi のまま変更されていないままの箇所が多数ある。「オロバシノミコト」はそのまま &quot;Orobashi no Mikoto&quot; (※未変更) と表記される。",
+    "variants": {
+      "en": [
+        "Orobashi"
+      ]
+    },
     "id": "orobaxi",
-    "updatedAt": "2022-04-08",
+    "updatedAt": "2022-05-04",
     "createdAt": "2022-04-08"
   },
   {
@@ -2883,12 +3048,8 @@
       "inazuma",
       "character-sub"
     ],
-    "variants": [
-      "阿倍良久",
-      "あべらく"
-    ],
     "id": "abrax",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -2899,11 +3060,8 @@
       "inazuma",
       "character-sub"
     ],
-    "variants": [
-      "アブラクサス"
-    ],
     "id": "aberaku",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -2913,12 +3071,8 @@
       "inazuma",
       "character-sub"
     ],
-    "variants": [
-      "烏帽子",
-      "えぼし"
-    ],
     "id": "erebos",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -2929,11 +3083,8 @@
       "inazuma",
       "character-sub"
     ],
-    "variants": [
-      "エレボス"
-    ],
     "id": "eboshi",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -3192,12 +3343,14 @@
       "character-main",
       "enemy-boss"
     ],
-    "variants": [
-      "タルタリア",
-      "タルタル"
-    ],
+    "variants": {
+      "ja": [
+        "タルタリア",
+        "タルタル"
+      ]
+    },
     "id": "tartaglia",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -3347,8 +3500,14 @@
       "title"
     ],
     "pronunciationJa": "ひょうじん",
+    "variants": {
+      "en": [
+        "Cryo God",
+        "God of Cryo"
+      ]
+    },
     "id": "cryo-archon",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -3546,16 +3705,18 @@
     "en": "Spiral Abyss",
     "ja": "深境螺旋",
     "pronunciationJa": "しんきょうらせん",
-    "variants": [
-      "深層",
-      "しんそう"
-    ],
+    "variants": {
+      "ja": [
+        "深層",
+        "しんそう"
+      ]
+    },
     "tags": [
       "mondstadt",
       "domain"
     ],
     "id": "spiral-abyss",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -3646,11 +3807,14 @@
       "dragonspine",
       "domain"
     ],
-    "variants": [
-      "ファンドニールの頂上"
-    ],
+    "variants": {
+      "ja": [
+        "ファンドニールの頂上",
+        "ファンドニール"
+      ]
+    },
     "id": "peak-of-vindagnyr",
-    "updatedAt": "2022-04-23",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -4399,141 +4563,123 @@
     "en": "Mitachurl",
     "ja": "ヒルチャール暴徒",
     "pronunciationJa": "ヒルチャールぼうと",
+    "notes": "通称「デカチャール」",
     "tags": [
       "enemy"
     ],
-    "variants": [
-      "デカチャール"
-    ],
     "id": "mitachurl",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
     "en": "Wooden Shieldwall Mitachurl",
     "ja": "ヒルチャール暴徒・木盾",
     "pronunciationJa": "ヒルチャールぼうと・もくじゅん",
+    "notes": "通称「デカチャール」",
     "tags": [
       "enemy"
     ],
-    "variants": [
-      "デカチャール"
-    ],
     "id": "wooden-shieldwall-mitachurl",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
     "en": "Rock Shieldwall Mitachurl",
     "ja": "ヒルチャール暴徒・岩盾",
     "pronunciationJa": "ヒルチャールぼうと・がんじゅん",
+    "notes": "通称「デカチャール」",
     "tags": [
       "enemy"
     ],
-    "variants": [
-      "デカチャール"
-    ],
     "id": "rock-shieldwall-mitachurl",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
     "en": "Ice Shieldwall Mitachurl",
     "ja": "ヒルチャール暴徒・氷盾",
     "pronunciationJa": "ヒルチャールぼうと・ひょうじゅん",
+    "notes": "通称「デカチャール」",
     "tags": [
       "enemy"
     ],
-    "variants": [
-      "デカチャール"
-    ],
     "id": "ice-shieldwall-mitachurl",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
     "en": "Blazing Axe Mitachurl",
     "ja": "ヒルチャール暴徒・炎斧",
     "pronunciationJa": "ヒルチャールぼうと・えんふ",
+    "notes": "通称「デカチャール」",
     "tags": [
       "enemy"
     ],
-    "variants": [
-      "デカチャール"
-    ],
     "id": "blazing-axe-mitachurl",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
     "en": "Crackling Axe Mitachurl",
     "ja": "ヒルチャール暴徒・雷斧",
     "pronunciationJa": "ヒルチャールぼうと・らいふ",
+    "notes": "通称「デカチャール」",
     "tags": [
       "enemy"
     ],
-    "variants": [
-      "デカチャール"
-    ],
     "id": "crackling-axe-mitachurl",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
     "en": "Stonehide Lawachurl",
     "ja": "ヒルチャール・岩兜の王",
     "pronunciationJa": "ヒルチャール・いわかぶとのおう",
+    "notes": "通称「デカチャール」",
     "tags": [
       "enemy",
       "liyue"
     ],
-    "variants": [
-      "デカチャール"
-    ],
     "id": "stonehide-lawachurl",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
     "en": "Frostarm Lawachurl",
     "ja": "ヒルチャール・霜鎧の王",
     "pronunciationJa": "ヒルチャール・しもよろいのおう",
+    "notes": "通称「デカチャール」",
     "tags": [
       "enemy",
       "dragonspine"
     ],
-    "variants": [
-      "デカチャール"
-    ],
     "id": "frostarm-lawachurl",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
     "en": "Thunderhelm Lawachurl",
     "ja": "ヒルチャール・雷兜の王",
     "pronunciationJa": "ヒルチャール・かみなりかぶとのおう",
+    "notes": "通称「デカチャール」",
     "tags": [
       "enemy",
       "inazuma"
     ],
-    "variants": [
-      "デカチャール"
-    ],
     "id": "thunderhelm-lawachurl",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
     "en": "Hilichurl Chieftain",
     "ja": "ヒルチャール王者",
     "pronunciationJa": "ヒルチャールおうじゃ",
-    "notes": "ヒルチャール・○○の王の総称",
+    "notes": "ヒルチャール・○○の王の総称。通称「デカチャール」。",
     "tags": [
       "enemy"
     ],
     "id": "hilichurl-chieftain",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -4543,12 +4689,14 @@
     "tags": [
       "enemy"
     ],
-    "variants": [
-      "変なヒルチャール",
-      "へんなヒルチャール"
-    ],
+    "variants": {
+      "ja": [
+        "変なヒルチャール",
+        "へんなヒルチャール"
+      ]
+    },
     "id": "unusual-hilichurl",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -4985,11 +5133,13 @@
       "snezhnaya",
       "enemy"
     ],
-    "variants": [
-      "デッドエージェント"
-    ],
+    "variants": {
+      "ja": [
+        "デッドエージェント"
+      ]
+    },
     "id": "fatui-agent",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -5000,8 +5150,13 @@
       "snezhnaya",
       "enemy"
     ],
+    "variants": {
+      "ja": [
+        "先遣隊"
+      ]
+    },
     "id": "fatui-skirmisher",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -5012,8 +5167,13 @@
       "snezhnaya",
       "enemy"
     ],
+    "variants": {
+      "ja": [
+        "炎銃"
+      ]
+    },
     "id": "fatui-skirmisher-pyroslinger-bracer",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -5024,8 +5184,13 @@
       "snezhnaya",
       "enemy"
     ],
+    "variants": {
+      "ja": [
+        "岩使い"
+      ]
+    },
     "id": "fatui-skirmisher-geochanter-bracer",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -5036,8 +5201,13 @@
       "snezhnaya",
       "enemy"
     ],
+    "variants": {
+      "ja": [
+        "氷銃"
+      ]
+    },
     "id": "fatui-skirmisher-cryogunner-legionnaire",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -5048,8 +5218,13 @@
       "snezhnaya",
       "enemy"
     ],
+    "variants": {
+      "ja": [
+        "水銃"
+      ]
+    },
     "id": "fatui-skirmisher-hydrogunner-legionnaire",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -5060,8 +5235,13 @@
       "snezhnaya",
       "enemy"
     ],
+    "variants": {
+      "ja": [
+        "風拳"
+      ]
+    },
     "id": "fatui-skirmisher-anemoboxer-vanguard",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -5072,8 +5252,13 @@
       "snezhnaya",
       "enemy"
     ],
+    "variants": {
+      "ja": [
+        "雷ハンマー"
+      ]
+    },
     "id": "fatui-skirmisher-electrohammer-vanguard",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -5115,60 +5300,68 @@
   {
     "en": "Whopperflower",
     "ja": "トリックフラワー",
-    "variants": [
-      "trickflower",
-      "trick flower"
-    ],
+    "variants": {
+      "en": [
+        "trickflower",
+        "trick flower"
+      ]
+    },
     "tags": [
       "enemy"
     ],
     "id": "whopperflower",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
     "en": "Pyro Whopperflower",
     "ja": "トリックフラワー・炎",
     "pronunciationJa": "トリックフラワー・ほのお",
-    "variants": [
-      "trickflower",
-      "trick flower"
-    ],
+    "variants": {
+      "en": [
+        "Pyro Trickflower",
+        "Pyro Trick Flower"
+      ]
+    },
     "tags": [
       "enemy"
     ],
     "id": "pyro-whopperflower",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
     "en": "Cryo Whopperflower",
     "ja": "トリックフラワー・氷",
     "pronunciationJa": "トリックフラワー・こおり",
-    "variants": [
-      "trickflower",
-      "trick flower"
-    ],
+    "variants": {
+      "en": [
+        "Cryo Trickflower",
+        "Cryo Trick Flower"
+      ]
+    },
     "tags": [
       "enemy"
     ],
     "id": "cryo-whopperflower",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
     "en": "Electro Whopperflower",
     "ja": "トリックフラワー・雷",
     "pronunciationJa": "トリックフラワー・かみなり",
-    "variants": [
-      "trickflower",
-      "trick flower"
-    ],
+    "variants": {
+      "en": [
+        "Electro Trickflower",
+        "Electro Trick Flower"
+      ]
+    },
     "tags": [
       "enemy"
     ],
     "id": "electro-whopperflower",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -5203,12 +5396,14 @@
       "enemy-boss",
       "mondstadt"
     ],
-    "variants": [
-      "無双の風",
-      "無想の風"
-    ],
+    "variants": {
+      "ja": [
+        "無双の風",
+        "無想の風"
+      ]
+    },
     "id": "anemo-hypostasis",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -5231,12 +5426,14 @@
       "enemy-boss",
       "mondstadt"
     ],
-    "variants": [
-      "無双の雷",
-      "無想の雷"
-    ],
+    "variants": {
+      "ja": [
+        "無双の雷",
+        "無想の雷"
+      ]
+    },
     "id": "electro-hypostasis",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -5259,12 +5456,14 @@
       "enemy-boss",
       "liyue"
     ],
-    "variants": [
-      "無双の岩",
-      "無想の岩"
-    ],
+    "variants": {
+      "ja": [
+        "無双の岩",
+        "無想の岩"
+      ]
+    },
     "id": "geo-hypostasis",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -5287,12 +5486,14 @@
       "enemy-boss",
       "dragonspine"
     ],
-    "variants": [
-      "無双の氷",
-      "無想の氷"
-    ],
+    "variants": {
+      "ja": [
+        "無双の氷",
+        "無想の氷"
+      ]
+    },
     "id": "cryo-hypostasis",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -5315,12 +5516,14 @@
       "enemy-boss",
       "inazuma"
     ],
-    "variants": [
-      "無双の炎",
-      "無想の炎"
-    ],
+    "variants": {
+      "ja": [
+        "無双の炎",
+        "無想の炎"
+      ]
+    },
     "id": "pyro-hypostasis",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -5343,12 +5546,14 @@
       "enemy-boss",
       "inazuma"
     ],
-    "variants": [
-      "無双の水",
-      "無想の水"
-    ],
+    "variants": {
+      "ja": [
+        "無双の水",
+        "無想の水"
+      ]
+    },
     "id": "hydro-hypostasis",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -5394,9 +5599,25 @@
       "enemy-boss",
       "liyue"
     ],
+    "variants": {
+      "ja": [
+        "エンシェントヴィシャップ"
+      ]
+    },
     "id": "primo-geovishap",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
+  },
+  {
+    "en": "Bathysmal Vishap",
+    "ja": "アビサルヴィシャップ",
+    "tags": [
+      "enemy",
+      "inazuma"
+    ],
+    "id": "bathysmal-vishap",
+    "updatedAt": "2022-05-05",
+    "createdAt": "2022-05-05"
   },
   {
     "en": "Primordial Bathysmal Vishap",
@@ -5446,15 +5667,17 @@
     "en": "Oceanid / Lochfolk",
     "ja": "純水精霊",
     "pronunciationJa": "じゅんすいせいれい",
-    "variants": [
-      "純粋精霊"
-    ],
+    "variants": {
+      "ja": [
+        "純粋精霊"
+      ]
+    },
     "tags": [
       "enemy-boss",
       "liyue"
     ],
     "id": "oceanid",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -5591,6 +5814,19 @@
     "createdAt": "1970-01-01"
   },
   {
+    "en": "Nobushi",
+    "ja": "野伏衆",
+    "pronunciationJa": "のぶししゅう",
+    "notes": "海乱鬼・野伏の総称。",
+    "tags": [
+      "enemy",
+      "inazuma"
+    ],
+    "id": "nobushi",
+    "updatedAt": "2022-05-05",
+    "createdAt": "2022-05-05"
+  },
+  {
     "en": "Maguu Kenki",
     "ja": "魔偶剣鬼",
     "pronunciationJa": "まぐうけんき",
@@ -5616,6 +5852,18 @@
     "createdAt": "2022-04-08"
   },
   {
+    "en": "Rifthound Whelp",
+    "ja": "獣域ウェルプ",
+    "pronunciationJa": "じゅういきウェルプ",
+    "notes": "whelp はイヌ科の動物の子供を指す語。",
+    "tags": [
+      "enemy"
+    ],
+    "id": "rifthound-whelp",
+    "updatedAt": "2022-05-05",
+    "createdAt": "2022-05-05"
+  },
+  {
     "en": "Rockfond Rifthound Whelp",
     "ja": "獣域ウェルプ・岩",
     "pronunciationJa": "じゅういきウェルプ・いわ",
@@ -5638,6 +5886,17 @@
     "id": "thundercraven-rifthound-whelp",
     "updatedAt": "1970-01-01",
     "createdAt": "1970-01-01"
+  },
+  {
+    "en": "Rifthound",
+    "ja": "獣域ハウンド",
+    "pronunciationJa": "じゅういきハウンド",
+    "tags": [
+      "enemy"
+    ],
+    "id": "rifthound",
+    "updatedAt": "2022-05-05",
+    "createdAt": "2022-05-05"
   },
   {
     "en": "Rockfond Rifthound",
@@ -5686,6 +5945,16 @@
     "createdAt": "2022-04-09"
   },
   {
+    "en": "Shadowy Husk",
+    "ja": "シャドウハスク",
+    "tags": [
+      "enemy"
+    ],
+    "id": "shadowy-husk",
+    "updatedAt": "2022-05-05",
+    "createdAt": "2022-05-05"
+  },
+  {
     "en": "Shadowy Husk: Standard Bearer",
     "ja": "シャドウハスク・旗令",
     "tags": [
@@ -5716,6 +5985,17 @@
     "createdAt": "1970-01-01"
   },
   {
+    "en": "Black Serpent Knight",
+    "ja": "黒蛇騎士",
+    "pronunciationJa": "こくじゃきし",
+    "tags": [
+      "enemy"
+    ],
+    "id": "black-serpent-knight",
+    "updatedAt": "2022-05-05",
+    "createdAt": "2022-05-05"
+  },
+  {
     "en": "Black Serpent Knight: Windcutter",
     "ja": "黒蛇騎士・斬風の剣",
     "pronunciationJa": "こくじゃきし・ざんぷうのけん",
@@ -5744,8 +6024,13 @@
     "tags": [
       "enemy"
     ],
+    "variants": {
+      "ja": [
+        "キノコン"
+      ]
+    },
     "id": "floating-hydro-fungus",
-    "updatedAt": "2022-04-02",
+    "updatedAt": "2022-05-04",
     "createdAt": "2022-04-02"
   },
   {
@@ -5756,11 +6041,13 @@
     "tags": [
       "event"
     ],
-    "variants": [
-      "機関奇譚"
-    ],
+    "variants": {
+      "ja": [
+        "機関奇譚"
+      ]
+    },
     "id": "theater-machanicus",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -6602,11 +6889,13 @@
     "tags": [
       "event"
     ],
-    "variants": [
-      "機関奇譚・霊妙の陣"
-    ],
+    "variants": {
+      "ja": [
+        "機関奇譚・霊妙の陣"
+      ]
+    },
     "id": "theater-machanicus-stage-of-wonders",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -8779,8 +9068,13 @@
     "tags": [
       "item"
     ],
+    "variants": {
+      "ja": [
+        "スターライト"
+      ]
+    },
     "id": "masterles-starglitter",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -8790,8 +9084,13 @@
     "tags": [
       "item"
     ],
+    "variants": {
+      "ja": [
+        "スターダスト"
+      ]
+    },
     "id": "masterless-stardust",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -8949,6 +9248,17 @@
     "id": "crimson-agate",
     "updatedAt": "1970-01-01",
     "createdAt": "1970-01-01"
+  },
+  {
+    "en": "Crystalfly",
+    "ja": "晶蝶",
+    "pronunciationJa": "しょうちょう",
+    "tags": [
+      "item"
+    ],
+    "id": "crystalfly",
+    "updatedAt": "2022-05-05",
+    "createdAt": "2022-05-05"
   },
   {
     "en": "Anemo Crystalfly",
@@ -10489,8 +10799,14 @@
       "talent-material",
       "item"
     ],
+    "variants": {
+      "ja": [
+        "王冠",
+        "冠"
+      ]
+    },
     "id": "crown-of-insight",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -11866,11 +12182,13 @@
       "item",
       "inazuma"
     ],
-    "variants": [
-      "ひまり"
-    ],
+    "variants": {
+      "ja": [
+        "ひまり"
+      ]
+    },
     "id": "sakura-bloom",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -11882,11 +12200,13 @@
       "item",
       "inazuma"
     ],
-    "variants": [
-      "なくさ"
-    ],
+    "variants": {
+      "ja": [
+        "なくさ"
+      ]
+    },
     "id": "naku-weed",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -12565,8 +12885,13 @@
       "location"
     ],
     "notes": "「モンド城」も単に Mondstadt と表現される。(「城」の意味が省略されている。)",
+    "variants": {
+      "ja": [
+        "モンド城"
+      ]
+    },
     "id": "mondstadt",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -12940,12 +13265,14 @@
       "liyue",
       "location"
     ],
-    "variants": [
-      "りーゆえ",
-      "離月"
-    ],
+    "variants": {
+      "ja": [
+        "りーゆえ",
+        "離月"
+      ]
+    },
     "id": "liyue",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -12956,11 +13283,13 @@
       "liyue",
       "location"
     ],
-    "variants": [
-      "りーゆえこう"
-    ],
+    "variants": {
+      "ja": [
+        "りーゆえこう"
+      ]
+    },
     "id": "liyue-harbor",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -13164,11 +13493,13 @@
       "liyue",
       "location"
     ],
-    "variants": [
-      "みんりん"
-    ],
+    "variants": {
+      "ja": [
+        "みんりん"
+      ]
+    },
     "id": "minlin",
-    "updatedAt": "2022-04-23",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -13813,12 +14144,14 @@
       "inazuma",
       "location"
     ],
-    "variants": [
-      "無双刃狭間",
-      "無相刃狭間"
-    ],
+    "variants": {
+      "ja": [
+        "無双刃狭間",
+        "無相刃狭間"
+      ]
+    },
     "id": "musoujin-gorge",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -13901,8 +14234,14 @@
       "inazuma",
       "location"
     ],
+    "_meta": {
+      "translator": {
+        "enToJa": true,
+        "jaToEn": false
+      }
+    },
     "id": "sangonomiya-shrine",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-05",
     "createdAt": "1970-01-01"
   },
   {
@@ -14248,8 +14587,13 @@
     "tags": [
       "object"
     ],
+    "variants": {
+      "ja": [
+        "神像"
+      ]
+    },
     "id": "statue-of-the-seven",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -14566,9 +14910,25 @@
       "object",
       "enemy"
     ],
+    "variants": {
+      "ja": [
+        "イノシシ王"
+      ]
+    },
     "id": "great-snowboar-king",
-    "updatedAt": "2022-04-23",
+    "updatedAt": "2022-05-04",
     "createdAt": "2022-04-23"
+  },
+  {
+    "en": "Weasel Thief",
+    "ja": "宝盗イタチ",
+    "pronunciationJa": "ほうとうイタチ",
+    "tags": [
+      "object"
+    ],
+    "id": "weasel-thief",
+    "updatedAt": "2022-05-05",
+    "createdAt": "2022-05-05"
   },
   {
     "en": "Amateur Weasel Thief",
@@ -14929,17 +15289,6 @@
     "createdAt": "1970-01-01"
   },
   {
-    "en": "... Clan",
-    "ja": "〜家",
-    "notes": "「グンヒルド家」(Gunnhildr Clan)、「ラグヴィンド家」(Ragnvindr Clan)、「ローレンス家」(Lawrence Clan)、「神里家」(Kamisato Clan) など。",
-    "tags": [
-      "organization"
-    ],
-    "id": "clan",
-    "updatedAt": "1970-01-01",
-    "createdAt": "1970-01-01"
-  },
-  {
     "en": "Knights of Favonius",
     "ja": "西風騎士団",
     "pronunciationJa": "セピュロスきしだん",
@@ -14947,8 +15296,16 @@
       "mondstadt",
       "organization"
     ],
+    "variants": {
+      "ja": [
+        "騎士団"
+      ],
+      "en": [
+        "Knights of Favonious"
+      ]
+    },
     "id": "knights-of-favonius",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -14959,9 +15316,44 @@
       "mondstadt",
       "organization"
     ],
+    "variants": {
+      "en": [
+        "Church of Favonious"
+      ]
+    },
     "id": "church-of-favonius",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
+  },
+  {
+    "en": "Gunnhildr Clan",
+    "ja": "グンヒルド家",
+    "tags": [
+      "organization"
+    ],
+    "id": "gunnhildr-clan",
+    "updatedAt": "2022-05-05",
+    "createdAt": "2022-05-05"
+  },
+  {
+    "en": "Ragnvindr Clan",
+    "ja": "ラグヴィンド家",
+    "tags": [
+      "organization"
+    ],
+    "id": "ragnvindr-clan",
+    "updatedAt": "2022-05-05",
+    "createdAt": "2022-05-05"
+  },
+  {
+    "en": "Lawrence Clan",
+    "ja": "ローレンス家",
+    "tags": [
+      "organization"
+    ],
+    "id": "lawrence-clan",
+    "updatedAt": "2022-05-05",
+    "createdAt": "2022-05-05"
   },
   {
     "en": "Angel's Share",
@@ -14994,11 +15386,13 @@
       "liyue",
       "organization"
     ],
-    "variants": [
-      "りーゆえしちせい"
-    ],
+    "variants": {
+      "ja": [
+        "りーゆえしちせい"
+      ]
+    },
     "id": "liyue-qixing",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -15081,11 +15475,13 @@
       "liyue",
       "organization"
     ],
-    "variants": [
-      "不卜盧"
-    ],
+    "variants": {
+      "ja": [
+        "不卜盧"
+      ]
+    },
     "id": "bubu-pharmacy",
-    "updatedAt": "2022-03-19",
+    "updatedAt": "2022-05-04",
     "createdAt": "2022-03-19"
   },
   {
@@ -15096,11 +15492,13 @@
       "liyue",
       "organization"
     ],
-    "variants": [
-      "瑠璃亭"
-    ],
+    "variants": {
+      "ja": [
+        "瑠璃亭"
+      ]
+    },
     "id": "liuli-pavilion",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -15287,6 +15685,16 @@
     "id": "shuumatsuban",
     "updatedAt": "1970-01-01",
     "createdAt": "1970-01-01"
+  },
+  {
+    "en": "Kamisato Clan",
+    "ja": "神里家",
+    "tags": [
+      "organization"
+    ],
+    "id": "kamisato-clan",
+    "updatedAt": "2022-05-05",
+    "createdAt": "2022-05-05"
   },
   {
     "en": "Naganohara Fireworks",
@@ -15916,11 +16324,13 @@
       "liyue",
       "quest-world"
     ],
-    "variants": [
-      "りーゆえこうのおだやかないちにち"
-    ],
+    "variants": {
+      "ja": [
+        "りーゆえこうのおだやかないちにち"
+      ]
+    },
     "id": "a-quiet-day-in-liyue-harbor",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -16146,8 +16556,13 @@
       "liyue",
       "quest-world"
     ],
+    "variants": {
+      "ja": [
+        "螭の話"
+      ]
+    },
     "id": "the-chi-of-yore",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -17626,8 +18041,13 @@
     "tags": [
       "quest-daily"
     ],
+    "variants": {
+      "ja": [
+        "デイリー"
+      ]
+    },
     "id": "commission-quest",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -18480,8 +18900,13 @@
   {
     "en": "Hangout Event",
     "ja": "デートイベント",
+    "variants": {
+      "en": [
+        "Hangout"
+      ]
+    },
     "id": "hangout-event",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -18491,8 +18916,18 @@
     "tags": [
       "sereniteapot"
     ],
+    "variants": {
+      "ja": [
+        "壺"
+      ],
+      "en": [
+        "teapot",
+        "tea pot",
+        "pot"
+      ]
+    },
     "id": "serenitea-pot",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -18600,12 +19035,14 @@
       "sereniteapot"
     ],
     "notes": "通称「パイン飴」",
-    "variants": [
-      "パイン飴",
-      "パインアメ"
-    ],
+    "variants": {
+      "ja": [
+        "パイン飴",
+        "パインアメ"
+      ]
+    },
     "id": "radiant-spincrystal",
-    "updatedAt": "2022-04-23",
+    "updatedAt": "2022-05-04",
     "createdAt": "2022-04-23"
   },
   {
@@ -18802,8 +19239,11 @@
     "ja": "原神 (タイトル)",
     "pronunciationJa": "げんしん",
     "notes": "ゲームタイトル。神の目を持つ者を指す「原神」は allogene。",
+    "_meta": {
+      "translator": false
+    },
     "id": "genshin-impact",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-05",
     "createdAt": "1970-01-01"
   },
   {
@@ -18811,8 +19251,14 @@
     "ja": "原神",
     "pronunciationJa": "げんしん",
     "notes": "タイトルではなく、神の目を持つ者を意味する言葉としての「原神」。英語版タイトルは Genshin Impact",
+    "_meta": {
+      "translator": {
+        "jaToEn": false,
+        "enToJa": true
+      }
+    },
     "id": "allogene",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-05",
     "createdAt": "1970-01-01"
   },
   {
@@ -18956,13 +19402,15 @@
     "tags": [
       "mondstadt"
     ],
-    "variants": [
-      "ダンデライオン酒",
-      "ダンディライオン酒",
-      "ダンディライオンしゅ"
-    ],
+    "variants": {
+      "ja": [
+        "ダンデライオン酒",
+        "ダンディライオン酒",
+        "ダンディライオンしゅ"
+      ]
+    },
     "id": "dandelion-wine",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -19164,12 +19612,14 @@
     "tags": [
       "inazuma"
     ],
-    "variants": [
-      "無相の一太刀",
-      "無双の一太刀"
-    ],
+    "variants": {
+      "ja": [
+        "無相の一太刀",
+        "無双の一太刀"
+      ]
+    },
     "id": "musou-no-hitotachi",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -19228,11 +19678,12 @@
   },
   {
     "en": "Harbinger",
-    "ja": "(ファデュイの) 執行官 / ファトゥス",
+    "ja": "執行官 / ファトゥス",
     "tags": [
       "snezhnaya",
       "title"
     ],
+    "notes": "ファデュイの執行官を指す。",
     "examples": [
       {
         "en": "Eighth of the Fatui Harbingers",
@@ -19240,7 +19691,7 @@
       }
     ],
     "id": "harbinger",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-05",
     "createdAt": "1970-01-01"
   },
   {
@@ -19287,43 +19738,91 @@
     "en": "Constellation",
     "ja": "命ノ星座",
     "pronunciationJa": "いのちのせいざ",
-    "variants": [
-      "凸",
-      "とつ"
-    ],
     "notes": "例えば「2凸」(命ノ星座を2つ開放した状態) のことを &quot;c2&quot; のように表現する。",
     "id": "constellation",
-    "updatedAt": "2022-04-08",
+    "updatedAt": "2022-05-04",
     "createdAt": "2022-04-08"
+  },
+  {
+    "en": "c1",
+    "ja": "1凸",
+    "notes": "命ノ星座を1つ開放した状態のこと",
+    "id": "c1",
+    "updatedAt": "2022-05-05",
+    "createdAt": "2022-05-05"
+  },
+  {
+    "en": "c2",
+    "ja": "2凸",
+    "notes": "命ノ星座を2つ開放した状態のこと",
+    "id": "c2",
+    "updatedAt": "2022-05-05",
+    "createdAt": "2022-05-05"
+  },
+  {
+    "en": "c3",
+    "ja": "3凸",
+    "notes": "命ノ星座を3つ開放した状態のこと",
+    "id": "c3",
+    "updatedAt": "2022-05-05",
+    "createdAt": "2022-05-05"
+  },
+  {
+    "en": "c4",
+    "ja": "4凸",
+    "notes": "命ノ星座を4つ開放した状態のこと",
+    "id": "c4",
+    "updatedAt": "2022-05-05",
+    "createdAt": "2022-05-05"
+  },
+  {
+    "en": "c5",
+    "ja": "5凸",
+    "notes": "命ノ星座を5つ開放した状態のこと",
+    "id": "c5",
+    "updatedAt": "2022-05-05",
+    "createdAt": "2022-05-05"
+  },
+  {
+    "en": "c6",
+    "ja": "完凸",
+    "notes": "命ノ星座を6つ全て開放した状態のこと",
+    "id": "c6",
+    "updatedAt": "2022-05-05",
+    "createdAt": "2022-05-05"
   },
   {
     "en": "Talents",
     "ja": "天賦",
     "pronunciationJa": "てんぷ",
-    "variants": [
-      "てんぶ"
-    ],
+    "variants": {
+      "ja": [
+        "てんぶ"
+      ]
+    },
     "id": "talents",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
-    "en": "Ascend",
+    "en": "ascend",
     "ja": "突破",
     "pronunciationJa": "とっぱ",
-    "variants": [
-      "ascension"
-    ],
+    "variants": {
+      "en": [
+        "ascension"
+      ]
+    },
     "id": "ascend",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-05",
     "createdAt": "1970-01-01"
   },
   {
-    "en": "Friendship",
+    "en": "friendship",
     "ja": "好感度",
     "pronunciationJa": "こうかんど",
     "id": "friendship",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-05",
     "createdAt": "1970-01-01"
   },
   {
@@ -19340,22 +19839,24 @@
     "ja": "世界ランク",
     "pronunciationJa": "せかいランク",
     "notes": "WL と略される。WR と略されることも。(World Rank の略?)",
-    "variants": [
-      "世界レベル"
-    ],
+    "variants": {
+      "ja": [
+        "世界レベル"
+      ]
+    },
     "id": "world-level",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
-    "en": "Element",
+    "en": "element",
     "ja": "元素",
     "pronunciationJa": "げんそ",
     "tags": [
       "element"
     ],
     "id": "element",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-05",
     "createdAt": "1970-01-01"
   },
   {
@@ -19692,39 +20193,37 @@
     "createdAt": "1970-01-01"
   },
   {
-    "en": "Charged Attack",
+    "en": "charged attack",
     "ja": "重撃",
     "pronunciationJa": "じゅうげき",
     "id": "charged-attack",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-05",
     "createdAt": "1970-01-01"
   },
   {
-    "en": "Refinement Rank",
+    "en": "refinement rank",
     "ja": "精錬ランク",
     "pronunciationJa": "せいれんランク",
     "id": "refinement-rank",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-05",
     "createdAt": "1970-01-01"
   },
   {
-    "en": "Corrosion",
+    "en": "corrosion",
     "ja": "侵食",
     "pronunciationJa": "しんしょく",
     "notes": "獣域ウェルプ・獣域ハウンドにより与えられる状態異常。",
     "id": "corrosion",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-05",
     "createdAt": "1970-01-01"
   },
   {
     "en": "Wish",
     "ja": "祈願",
     "pronunciationJa": "きがん",
-    "variants": [
-      "ガチャ"
-    ],
+    "notes": "いわゆるガチャ。そのまま Gacha と表現される場合もある。",
     "id": "wish",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -19775,26 +20274,38 @@
     "ja": "復刻",
     "pronunciationJa": "ふっこく",
     "notes": "復刻ガチャや復刻イベントなどを示す。",
+    "variants": {
+      "ja": [
+        "復刻ガチャ"
+      ]
+    },
     "id": "rerun",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
     "en": "Co-Op mode",
     "ja": "マルチプレイ",
-    "variants": [
-      "CoOp mode"
-    ],
+    "variants": {
+      "en": [
+        "CoOp mode",
+        "CoOp",
+        "co-op"
+      ]
+    },
     "id": "co-op-mode",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
     "en": "Request to Join (Co-Op mode)",
     "ja": "(マルチプレイへの) 加入申請",
     "pronunciationJa": "かにゅうしんせい",
+    "_meta": {
+      "translator": false
+    },
     "id": "request-to-join-co-op-mode",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-05",
     "createdAt": "1970-01-01"
   },
   {
@@ -20108,8 +20619,13 @@
       "weapon",
       "sword"
     ],
+    "variants": {
+      "ja": [
+        "斬岩"
+      ]
+    },
     "id": "prototype-rancour",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -20120,8 +20636,13 @@
       "weapon",
       "sword"
     ],
+    "variants": {
+      "ja": [
+        "鉄蜂"
+      ]
+    },
     "id": "iron-sting",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -20251,11 +20772,13 @@
       "weapon",
       "sword"
     ],
-    "variants": [
-      "盤岩結緑"
-    ],
+    "variants": {
+      "ja": [
+        "盤岩結緑"
+      ]
+    },
     "id": "primordial-jade-cutter",
-    "updatedAt": "2022-03-19",
+    "updatedAt": "2022-05-04",
     "createdAt": "2022-03-19"
   },
   {
@@ -20266,8 +20789,13 @@
       "weapon",
       "sword"
     ],
+    "variants": {
+      "ja": [
+        "蒼古"
+      ]
+    },
     "id": "freedom-sworn",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -20277,8 +20805,13 @@
       "weapon",
       "sword"
     ],
+    "variants": {
+      "ja": [
+        "霧切"
+      ]
+    },
     "id": "mistsplitter-reforged",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -20289,8 +20822,13 @@
       "weapon",
       "sword"
     ],
+    "variants": {
+      "ja": [
+        "波乱"
+      ]
+    },
     "id": "haran-geppaku-futsu",
-    "updatedAt": "2022-03-19",
+    "updatedAt": "2022-05-04",
     "createdAt": "2022-03-19"
   },
   {
@@ -20572,8 +21110,13 @@
       "weapon",
       "claymore"
     ],
+    "variants": {
+      "ja": [
+        "末路"
+      ]
+    },
     "id": "wolfs-gravestone",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -20583,8 +21126,13 @@
       "weapon",
       "claymore"
     ],
+    "variants": {
+      "ja": [
+        "無工"
+      ]
+    },
     "id": "the-unforged",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -20595,8 +21143,13 @@
       "weapon",
       "claymore"
     ],
+    "variants": {
+      "ja": [
+        "松韻"
+      ]
+    },
     "id": "song-of-broken-pines",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -20690,8 +21243,13 @@
       "weapon",
       "polearm"
     ],
+    "variants": {
+      "ja": [
+        "星鎌"
+      ]
+    },
     "id": "prototype-starglitter",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -20702,8 +21260,13 @@
       "weapon",
       "polearm"
     ],
+    "variants": {
+      "ja": [
+        "流月"
+      ]
+    },
     "id": "crescent-pike",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -20785,20 +21348,25 @@
       "weapon",
       "polearm"
     ],
+    "variants": {
+      "ja": [
+        "喜多院"
+      ]
+    },
     "id": "kitain-cross-spear",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
-    "en": "\"The Catch\"",
-    "ja": "「漁獲」",
+    "en": "The Catch",
+    "ja": "漁獲",
     "pronunciationJa": "ぎょかく",
     "tags": [
       "weapon",
       "polearm"
     ],
     "id": "the-catch",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-05",
     "createdAt": "1970-01-01"
   },
   {
@@ -20809,8 +21377,13 @@
       "weapon",
       "polearm"
     ],
+    "variants": {
+      "ja": [
+        "斬波"
+      ]
+    },
     "id": "wavebreakers-fin",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -20844,8 +21417,13 @@
       "weapon",
       "polearm"
     ],
+    "variants": {
+      "ja": [
+        "破天"
+      ]
+    },
     "id": "vortex-vanguisher",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -20856,8 +21434,13 @@
       "weapon",
       "polearm"
     ],
+    "variants": {
+      "ja": [
+        "護摩"
+      ]
+    },
     "id": "staff-of-homa",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -20868,8 +21451,13 @@
       "weapon",
       "polearm"
     ],
+    "variants": {
+      "ja": [
+        "草薙"
+      ]
+    },
     "id": "engulfing-lightning",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -21035,8 +21623,13 @@
       "weapon",
       "bow"
     ],
+    "variants": {
+      "ja": [
+        "澹月"
+      ]
+    },
     "id": "prototype-crescent",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -21069,8 +21662,13 @@
       "weapon",
       "bow"
     ],
+    "variants": {
+      "ja": [
+        "蒼翠"
+      ]
+    },
     "id": "the-viridescent-hunt",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -21093,8 +21691,13 @@
       "weapon",
       "bow"
     ],
+    "variants": {
+      "ja": [
+        "幽夜"
+      ]
+    },
     "id": "mitternachts-waltz",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -21117,8 +21720,13 @@
       "weapon",
       "bow"
     ],
+    "variants": {
+      "ja": [
+        "曚雲"
+      ]
+    },
     "id": "mouuns-moon",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -21141,8 +21749,13 @@
       "weapon",
       "bow"
     ],
+    "variants": {
+      "ja": [
+        "アモス"
+      ]
+    },
     "id": "amos-bow",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -21153,8 +21766,13 @@
       "weapon",
       "bow"
     ],
+    "variants": {
+      "ja": [
+        "終焉"
+      ]
+    },
     "id": "elegy-for-the-end",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -21165,8 +21783,13 @@
       "weapon",
       "bow"
     ],
+    "variants": {
+      "ja": [
+        "飛雷"
+      ]
+    },
     "id": "thundering-pulse",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -21176,8 +21799,13 @@
       "weapon",
       "bow"
     ],
+    "variants": {
+      "ja": [
+        "冬極"
+      ]
+    },
     "id": "polar-star",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -21331,8 +21959,13 @@
       "weapon",
       "catalyst"
     ],
+    "variants": {
+      "ja": [
+        "金珀"
+      ]
+    },
     "id": "prototype-amber",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -21343,8 +21976,14 @@
       "weapon",
       "catalyst"
     ],
+    "variants": {
+      "ja": [
+        "万国",
+        "万国諸海"
+      ]
+    },
     "id": "mappa-mare",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
@@ -21496,8 +22135,13 @@
       "weapon",
       "catalyst"
     ],
+    "variants": {
+      "ja": [
+        "神楽"
+      ]
+    },
     "id": "kaguras-verity",
-    "updatedAt": "1970-01-01",
+    "updatedAt": "2022-05-04",
     "createdAt": "1970-01-01"
   },
   {
